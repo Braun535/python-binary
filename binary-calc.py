@@ -82,5 +82,5 @@ if num2 == '1111':
 
 c = a + b;
 d = (bin(c))
-d = d.strip('0b')
+d = d
 print(d)
